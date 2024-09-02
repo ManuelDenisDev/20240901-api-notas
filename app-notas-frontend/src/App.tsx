@@ -4,8 +4,9 @@ import ModalProvider from "./provider/ModalProvider";
 
 export default function App() {
   return (
-    <ModalProvider>
-      <Home />
-    </ModalProvider>
+    <h1>hola mundo</h1>
+    // <ModalProvider>
+    //   <Home />
+    // </ModalProvider>
   );
 }

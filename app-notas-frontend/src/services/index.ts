@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:3000";
+const API_URL = process.env.REACT_APP_API_URL;
 
 // GET /api/notes ---> LLamada a las notas
 export async function getApiNotes() {
