@@ -18,5 +18,3 @@ app-notas-backend/dist/
 
 # Configuración
 app-notas-backend/.env
-.env
-/.env
