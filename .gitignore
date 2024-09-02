@@ -16,5 +16,7 @@ app-notas-backend/dist/
 # Sistema operativo
 .DS_Store
 
-# .env
+# Configuración
 app-notas-backend/.env
+.env
+/.env
