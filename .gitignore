@@ -12,3 +12,5 @@ dist/
 
 # Sistema operativo
 .DS_Store
+
+# .env
