@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+npm-debug.log*
+
+# Build
+build/
+dist/
+
+# Editor de texto
+.vscode/
+.idea/
+
+# Sistema operativo
+.DS_Store
