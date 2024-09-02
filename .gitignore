@@ -3,8 +3,11 @@ node_modules/
 npm-debug.log*
 
 # Build
-build/
-dist/
+app-notas-backend/build/
+app-notas-frontend/build/
+app-notas-frontend/dist/
+app-notas-backend/dist/
+
 
 # Editor de texto
 .vscode/
@@ -14,3 +17,4 @@ dist/
 .DS_Store
 
 # .env
+app-notas-backend/.env
